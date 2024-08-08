@@ -11,7 +11,7 @@ public class Main {
         // Task 4: Overloaded method to multiply three integers
         public int product(int x, int y, int z) {
             return x * y * z;
-        }
+        } 
 
         // Task 5: Overloaded method to multiply two doubles
         public double product(double x, double y) {
